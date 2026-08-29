@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PDFs (pesados, viven en Drive -- no hace falta duplicarlos en el repo)
+data/raw/pdfs/
+
+# Texto extraído de PDFs (regenerable con extract_text_local.py)
+data/processed/textos/
+
+# Credenciales -- NUNCA subir API keys
+.env
+*.key
+
+# Sistema
+.DS_Store
