@@ -1,9 +1,7 @@
-# Agroexport RAG — Granos y Oleaginosas
+# Agroexport RAG — Granos y Oleaginosas (PRODUCCION)
 
 RAG de normativa SENASA/aduanera para exportadores de granos y oleaginosas
-(soja, maíz, trigo, girasol). Postulación al Premio a la Innovación con
-Impacto 2026 (Endeavor Argentina / FBNA), categoría Agrotech o Comercio y
-Exportaciones.
+(soja, maíz, trigo, girasol).
 
 ## Alcance definido
 
